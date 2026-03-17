@@ -1,0 +1,75 @@
+{
+  "console": [
+    {
+      "type": "log",
+      "text": "screenStatus:::: "
+    },
+    {
+      "type": "log",
+      "text": "screenStatus:::: "
+    },
+    {
+      "type": "log",
+      "text": "diff........... NaN"
+    },
+    {
+      "type": "log",
+      "text": "diff........... NaN"
+    },
+    {
+      "type": "log",
+      "text": "diff........... NaN"
+    },
+    {
+      "type": "log",
+      "text": "Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "log",
+      "text": "screenStatus:::: "
+    },
+    {
+      "type": "log",
+      "text": "screenStatus:::: "
+    },
+    {
+      "type": "log",
+      "text": "screenStatus:::: "
+    }
+  ],
+  "errors": [],
+  "network": [
+    {
+      "url": "https://api-v2.skoopsignage.app/languages",
+      "status": 404
+    },
+    {
+      "url": "https://api-v2.skoopsignage.app/languages",
+      "status": 404
+    },
+    {
+      "url": "https://api-v2.skoopsignage.app/languages",
+      "status": 404
+    },
+    {
+      "url": "https://api-v2.skoopsignage.app/languages",
+      "status": 404
+    }
+  ]
+}
